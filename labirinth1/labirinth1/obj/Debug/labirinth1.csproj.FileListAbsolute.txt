@@ -1,0 +1,37 @@
+C:\Users\Venya\Desktop\Школа\Visual Studio\labirinth1\labirinth1\bin\Debug\labirinth1.exe.config
+C:\Users\Venya\Desktop\Школа\Visual Studio\labirinth1\labirinth1\bin\Debug\labirinth1.exe
+C:\Users\Venya\Desktop\Школа\Visual Studio\labirinth1\labirinth1\bin\Debug\labirinth1.pdb
+C:\Users\Venya\Desktop\Школа\Visual Studio\labirinth1\labirinth1\obj\Debug\labirinth1.csprojResolveAssemblyReference.cache
+C:\Users\Venya\Desktop\Школа\Visual Studio\labirinth1\labirinth1\obj\Debug\labirinth1.Form1.resources
+C:\Users\Venya\Desktop\Школа\Visual Studio\labirinth1\labirinth1\obj\Debug\labirinth1.Properties.Resources.resources
+C:\Users\Venya\Desktop\Школа\Visual Studio\labirinth1\labirinth1\obj\Debug\labirinth1.csproj.GenerateResource.Cache
+C:\Users\Venya\Desktop\Школа\Visual Studio\labirinth1\labirinth1\obj\Debug\labirinth1.exe
+C:\Users\Venya\Desktop\Школа\Visual Studio\labirinth1\labirinth1\obj\Debug\labirinth1.pdb
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\obj\Debug\labirinth1.csprojAssemblyReference.cache
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\obj\Debug\labirinth1.Form1.resources
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\obj\Debug\labirinth1.Properties.Resources.resources
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\obj\Debug\labirinth1.csproj.GenerateResource.cache
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\obj\Debug\labirinth1.csproj.CoreCompileInputs.cache
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\obj\Debug\labirinth1.exe
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\obj\Debug\labirinth1.pdb
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\bin\Debug\labirinth1.exe.config
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\bin\Debug\labirinth1.exe
+D:\Kurs\20\Nekhoda\labirinth1\labirinth1\bin\Debug\labirinth1.pdb
+C:\Users\Venya\Desktop\Школа\Visual Studio\курсовая редакция єнтина\labirinth1\labirinth1\bin\Debug\labirinth1.exe.config
+C:\Users\Venya\Desktop\Школа\Visual Studio\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.exe
+C:\Users\Venya\Desktop\Школа\Visual Studio\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.pdb
+C:\Users\Venya\Desktop\Школа\Visual Studio\курсовая редакция єнтина\labirinth1\labirinth1\bin\Debug\labirinth1.exe
+C:\Users\Venya\Desktop\Школа\Visual Studio\курсовая редакция єнтина\labirinth1\labirinth1\bin\Debug\labirinth1.pdb
+C:\Users\Venya\Desktop\Школа\Visual Studio\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.csprojResolveAssemblyReference.cache
+C:\Users\Venya\Desktop\Школа\Visual Studio\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.Form1.resources
+C:\Users\Venya\Desktop\Школа\Visual Studio\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.Properties.Resources.resources
+C:\Users\Venya\Desktop\Школа\Visual Studio\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.csproj.GenerateResource.Cache
+C:\Users\Venya\Desktop\Школа\Visual Studio\КУРСАЧ\курсовая редакция єнтина\labirinth1\labirinth1\bin\Debug\labirinth1.exe.config
+C:\Users\Venya\Desktop\Школа\Visual Studio\КУРСАЧ\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.exe
+C:\Users\Venya\Desktop\Школа\Visual Studio\КУРСАЧ\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.pdb
+C:\Users\Venya\Desktop\Школа\Visual Studio\КУРСАЧ\курсовая редакция єнтина\labirinth1\labirinth1\bin\Debug\labirinth1.exe
+C:\Users\Venya\Desktop\Школа\Visual Studio\КУРСАЧ\курсовая редакция єнтина\labirinth1\labirinth1\bin\Debug\labirinth1.pdb
+C:\Users\Venya\Desktop\Школа\Visual Studio\КУРСАЧ\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.csprojResolveAssemblyReference.cache
+C:\Users\Venya\Desktop\Школа\Visual Studio\КУРСАЧ\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.Form1.resources
+C:\Users\Venya\Desktop\Школа\Visual Studio\КУРСАЧ\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.Properties.Resources.resources
+C:\Users\Venya\Desktop\Школа\Visual Studio\КУРСАЧ\курсовая редакция єнтина\labirinth1\labirinth1\obj\Debug\labirinth1.csproj.GenerateResource.Cache
